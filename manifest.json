@@ -1,0 +1,9 @@
+{
+    "name": "Enemies Spawn Faster",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/pheintz/EnemiesSpawnFaster",
+    "description": "Make spawn rates faster to help the early game.",
+    "dependencies": [
+        "tristanmcpherson-R2API-2.1.15"
+    ]
+}
